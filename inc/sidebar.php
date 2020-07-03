@@ -2,7 +2,7 @@
 
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
-        <div class="sidebar-brand-text mx-3" style="font-size:25px;">Asha Metallic</div>
+        <div class="sidebar-brand-text mx-3" style="font-size:25px;">Amicon</div>
       </a>
 
       <!-- Divider -->

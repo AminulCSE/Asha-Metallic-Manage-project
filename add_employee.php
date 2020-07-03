@@ -79,7 +79,8 @@
  }
 }
 
-?>
+?>              
+              <h3>Add Employee</h3>
                   <form class="user" action="" method="POST" enctype="multipart/form-data">
                       <div class="form-group">
                         <label>Name</label>

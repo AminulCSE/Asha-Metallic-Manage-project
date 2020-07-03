@@ -41,6 +41,7 @@
     }
   }
 ?>
+              <h3>Add Client</h3>
                   <form class="user" action="" method="POST">
                       <div class="form-group">
                         <input type="text" class="form-control form-control-user" id="exampleInputEmail" aria-describedby="emailHelp" name="institute_name" placeholder="Enter Institute Name...">
